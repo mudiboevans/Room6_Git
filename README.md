@@ -8,3 +8,10 @@ The collaborators should folk the repo into their remote accounts and clone to m
  
 **Let's make a small bios or brief discription of ourselves**
 
+## Members
+
+### Stella Esther Nabirye
+
+Currently an MSc Bioinformatics Student at Makerere University
+Interested in viral and human genomics, transmission dynamics and phylogenetics
+
